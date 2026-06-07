@@ -98,16 +98,6 @@ class Jarvis:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jarvis-drakon&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jarvis-drakon&color=00ff41&style=for-the-badge&label=PROFILE+SCANS" />
-</p>
-
----
-
-<p align="center">
   <code>「 THE FUTURE IS AUTONOMOUS 」</code>
 </p>
 
